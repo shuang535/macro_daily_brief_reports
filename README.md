@@ -7,13 +7,14 @@
 ## 最新報告
 
 - **2026-10-09** weekly：[臺美](weekly/2026-10-09/2026-10-09-twus.md)
-- **2026-10-29** reports：[臺美](reports/2026-10-29/2026-10-29-twus.md) · [PDF](reports/2026-10-29/2026-10-29-twus.pdf)
-- **2026-10-29** reports：[中國 A 股](reports/2026-10-29/2026-10-29-china.md) · [PDF](reports/2026-10-29/2026-10-29-china.pdf)
+- **2026-10-30** reports：[臺美](reports/2026-10-30/2026-10-30-twus.md) · [PDF](reports/2026-10-30/2026-10-30-twus.pdf)
+- **2026-10-30** reports：[中國 A 股](reports/2026-10-30/2026-10-30-china.md) · [PDF](reports/2026-10-30/2026-10-30-china.pdf)
 
 ## Daily Recap
 
 | 主要市場交易日／週末識別日 | 報告 |
 | --- | --- |
+| 2026-10-30 | [臺美](reports/2026-10-30/2026-10-30-twus.md) · [PDF](reports/2026-10-30/2026-10-30-twus.pdf)；[中國 A 股](reports/2026-10-30/2026-10-30-china.md) · [PDF](reports/2026-10-30/2026-10-30-china.pdf) |
 | 2026-10-29 | [臺美](reports/2026-10-29/2026-10-29-twus.md) · [PDF](reports/2026-10-29/2026-10-29-twus.pdf)；[中國 A 股](reports/2026-10-29/2026-10-29-china.md) · [PDF](reports/2026-10-29/2026-10-29-china.pdf) |
 | 2026-10-28 | [臺美](reports/2026-10-28/2026-10-28-twus.md) · [PDF](reports/2026-10-28/2026-10-28-twus.pdf)；[中國 A 股](reports/2026-10-28/2026-10-28-china.md) · [PDF](reports/2026-10-28/2026-10-28-china.pdf) |
 | 2026-10-27 | [臺美](reports/2026-10-27/2026-10-27-twus.md) · [PDF](reports/2026-10-27/2026-10-27-twus.pdf)；[中國 A 股](reports/2026-10-27/2026-10-27-china.md) · [PDF](reports/2026-10-27/2026-10-27-china.pdf) |
